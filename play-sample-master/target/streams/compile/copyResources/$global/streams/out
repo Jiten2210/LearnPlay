@@ -1,6 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/jitu/Eclipse451Mars64Workspace/play-sample-master/conf/privilege.routes,/home/jitu/Eclipse451Mars64Workspace/play-sample-master/target/scala-2.12/classes/privilege.routes)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/jitu/Eclipse451Mars64Workspace/play-sample-master/conf/routes,/home/jitu/Eclipse451Mars64Workspace/play-sample-master/target/scala-2.12/classes/routes)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/jitu/Eclipse451Mars64Workspace/play-sample-master/conf/application.conf,/home/jitu/Eclipse451Mars64Workspace/play-sample-master/target/scala-2.12/classes/application.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/jitu/Eclipse451Mars64Workspace/play-sample-master/conf/logback.xml,/home/jitu/Eclipse451Mars64Workspace/play-sample-master/target/scala-2.12/classes/logback.xml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/jitu/Eclipse451Mars64Workspace/play-sample-master/conf/users.routes,/home/jitu/Eclipse451Mars64Workspace/play-sample-master/target/scala-2.12/classes/users.routes)[0m
