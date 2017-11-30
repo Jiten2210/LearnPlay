@@ -1,0 +1,6 @@
+
+GET     /                      Role.RoleController.getAllRoles()
+POST    /                      Role.RoleController.createRole()
+GET     /:roleId              Role.RoleController.getRole(roleId : String)
+PUT     /:roleId              Role.RoleController.updateRole(roleId : String)
+DELETE  /:roleId              Role.RoleController.deleteRole(roleId : String)
