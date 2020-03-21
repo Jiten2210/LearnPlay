@@ -1,7 +1,7 @@
 
 # play-java-sample application v2.6 + MongoDB
 
-This is a starter application that has base setup of Play 2.6 with MongoDB as database (Morphia lib). This repository will constantly updated on better changes.   
+This is a starter application that has base setup of Play 2.6 with MongoDB as database (Morphia lib). This repository will constantly updated for better changes.   
 
 Please see the documentation at https://www.playframework.com/documentation/latest/Home for more details.
 
